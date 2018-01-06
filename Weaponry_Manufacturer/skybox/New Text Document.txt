@@ -1,0 +1,7 @@
+	// intilize sky box
+	/*back = LoadTexture("skybox//tank.bmp");			    
+	front = LoadTexture("skybox//tank.bmp");
+	top = LoadTexture("skybox//tank.bmp");
+	down = LoadTexture("skybox//tank.bmp");
+	Right = LoadTexture("skybox//tank.bmp");
+	Left = LoadTexture("skybox//tank.bmp");*/
